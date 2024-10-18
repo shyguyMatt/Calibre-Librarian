@@ -11,13 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@comix/parser": "^0.1.0",
     "chokidar": "^3.6.0",
-    "comic-info": "^0.0.4",
     "discord.js": "^14.15.2",
     "dotenv": "^16.4.5",
-    "extract-zip": "^2.0.1",
-    "mv": "^2.1.1",
     "unzipper": "^0.12.3",
     "xmldom": "^0.6.0"
   }
